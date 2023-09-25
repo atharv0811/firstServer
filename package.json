@@ -1,0 +1,24 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharv0811/firstServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharv0811/firstServer/issues"
+  },
+  "homepage": "https://github.com/atharv0811/firstServer#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
